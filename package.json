@@ -1,0 +1,26 @@
+{
+  "name": "myanimelist-back",
+  "version": "1.0.0",
+  "description": "praticas com express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./bin/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuliaMoonCrystal/myAnimeList-Back.git"
+  },
+  "author": "Julia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuliaMoonCrystal/myAnimeList-Back/issues"
+  },
+  "homepage": "https://github.com/JuliaMoonCrystal/myAnimeList-Back#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-generator": "^4.16.1",
+    "nodemon": "^2.0.22"
+  },
+  "keywords": []
+}
